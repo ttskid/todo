@@ -35,4 +35,4 @@ client.on('message', message => {
   }
 });
 
-client.login('BOT TOKEN HERE');
+client.login('Mjc4MzUxMjIzMTAxNTg3NDU2.Gy5dke.cN1yI6FCMRq54yILimWAII_c5I6APsucrxpOBs');
